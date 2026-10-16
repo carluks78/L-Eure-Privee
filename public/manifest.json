@@ -1,0 +1,18 @@
+{
+  "name": "Eure Privée — Conciergerie privée",
+  "short_name": "Eure Privée",
+  "description": "Conciergerie privée en Vallée de l’Eure.",
+  "lang": "fr-FR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#11100f",
+  "theme_color": "#11100f",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
